@@ -1,7 +1,7 @@
 {
-  "name": "my-portfolio",
+  "name": "testapp",
   "version": "0.1.0",
-  "homepage": "https://sulekmk.github.io/testApp",
+  "homepage": "https://sulekmk.github.io/testApp/public/index.html",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
